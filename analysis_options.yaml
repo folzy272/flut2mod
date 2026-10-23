@@ -1,0 +1,6 @@
+analyzer:
+  errors:
+    invalid_assignment: error
+    missing_required_argument: error
+  exclude:
+    - build/**
